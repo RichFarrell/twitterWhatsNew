@@ -1,5 +1,6 @@
-package com.richfarrelldev.twitterWhatsNew;
+package com.richfarrell.twitterWhatsNew.resources;
 
+import com.richfarrell.twitterWhatsNew.twitterSearchView;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;

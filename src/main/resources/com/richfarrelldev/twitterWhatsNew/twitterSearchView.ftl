@@ -1,4 +1,4 @@
-<#-- @ftlvariable name="" type="com.richfarrelldev.twitterWhatsNew.twitterSearchView" -->
+<#-- @ftlvariable name="" type="com.richfarrell.twitterWhatsNew.twitterSearchView" -->
 
 <html>
 

@@ -1,4 +1,4 @@
-package com.richfarrelldev.twitterWhatsNew;
+package com.richfarrell.twitterWhatsNew;
 
 import io.dropwizard.views.View;
 

@@ -1,8 +1,8 @@
-package com.richfarrelldev.twitterWhatsNew.resources;
+package com.richfarrell.twitterWhatsNew.resources;
 
-import com.richfarrelldev.twitterWhatsNew.tweets;
-import com.richfarrelldev.twitterWhatsNew.twitterSession;
-import com.richfarrelldev.twitterWhatsNew.twitterWhatsNewConfiguration;
+import com.richfarrell.twitterWhatsNew.tweets;
+import com.richfarrell.twitterWhatsNew.twitterSession;
+import com.richfarrell.twitterWhatsNew.twitterWhatsNewConfiguration;
 import com.codahale.metrics.annotation.Timed;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

@@ -1,4 +1,4 @@
-package com.richfarrelldev.twitterWhatsNew;
+package com.richfarrell.twitterWhatsNew;
 
 import io.dropwizard.Application;
 import io.dropwizard.assets.AssetsBundle;
@@ -6,7 +6,8 @@ import io.dropwizard.setup.Bootstrap;
 import io.dropwizard.setup.Environment;
 import io.dropwizard.views.ViewBundle;
 
-import com.richfarrelldev.twitterWhatsNew.resources.twitterWhatsNewResource;
+import com.richfarrell.twitterWhatsNew.resources.twitterSearchResource;
+import com.richfarrell.twitterWhatsNew.resources.twitterWhatsNewResource;
 //import com.richfarrelldev.twitterWhatsNew.health.TemplateHealthCheck;
 
 public class twitterWhatsNewApplication extends Application<twitterWhatsNewConfiguration> {

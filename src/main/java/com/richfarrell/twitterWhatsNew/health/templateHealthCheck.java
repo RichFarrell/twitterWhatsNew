@@ -1,4 +1,4 @@
-package com.richfarrelldev.twitterWhatsNew.health;
+package com.richfarrell.twitterWhatsNew.health;
 
 import com.codahale.metrics.health.HealthCheck;
 
