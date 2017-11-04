@@ -8,7 +8,7 @@ import io.dropwizard.views.ViewBundle;
 
 import com.richfarrell.twitterWhatsNew.resources.twitterSearchResource;
 import com.richfarrell.twitterWhatsNew.resources.twitterWhatsNewResource;
-//import com.richfarrelldev.twitterWhatsNew.health.TemplateHealthCheck;
+//import com.richfarrell.twitterWhatsNew.health.TemplateHealthCheck;
 
 public class twitterWhatsNewApplication extends Application<twitterWhatsNewConfiguration> {
     public static void main(String[] args) throws Exception {
