@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.richfarrell.twitterWhatsNew.twitterWhatsNewApplication.class
+web: java $JAVA_OPTS -Ddw.http.port=$PORT -Ddw.http.adminPort=$PORT -jar target/twitterWhatsNew-0.0.1-SNAPSHOT.jar server
