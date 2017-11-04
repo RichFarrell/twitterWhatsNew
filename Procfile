@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* twitterWhatsNew.twitterWhatsNewApplication
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.richfarrell.twitterWhatsNew.twitterWhatsNewApplication.class

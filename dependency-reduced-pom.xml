@@ -20,7 +20,7 @@
               <transformers>
                 <transformer />
                 <transformer>
-                  <mainClass>com.richfarrelldev.twitterWhatsNew.twitterWhatsNewApplication</mainClass>
+                  <mainClass>com.richfarrell.twitterWhatsNew.twitterWhatsNewApplication</mainClass>
                 </transformer>
               </transformers>
             </configuration>
